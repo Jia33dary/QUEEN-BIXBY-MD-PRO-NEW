@@ -50,13 +50,13 @@
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-4. Click [FORK](https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW/fork)
+4. Click [FORK](Jia33dary/QUEEN-BIXBY-MD-PRO-NEW)
 
 5. Click the url showing below to copy deploy template
 
 ```
 
-https://heroku.com/deploy?template=https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW
+Jia33dary/QUEEN-BIXBY-MD-PRO-NEW
 
 ``` 
 
@@ -66,7 +66,7 @@ https://heroku.com/deploy?template=https://github.com/darkalphaxteam/QUEEN-BIXBY
 
 # Contact for help:
 
-   * Click [Contact](https://wa.me/94711421243) Here For Contact
+   * Click [Contact](https://wa.me/989393921419) Here For Contact
 
       </br> <p/>
 
